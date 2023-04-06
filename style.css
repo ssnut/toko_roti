@@ -60,7 +60,7 @@
     flex-basis: 57%;
     flex-grow: 1;
     padding: 40px 80px;
-    background-color: #c3ac7a ;
+    background-color: #f9f9f9 ;
 }
 
 .nav{
@@ -135,8 +135,8 @@
 
 .col-2 ul li a {
     display: inline-block;
-    color: #ffffff;
-    text-shadow: 3px 3px 2px #463109;
+    color: #3f2e0a;
+    text-shadow: 3px 3px 2px #ae9361;
     text-decoration: none;  
     margin-bottom: 10px;
     
